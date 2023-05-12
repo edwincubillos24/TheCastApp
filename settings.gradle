@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "TheCastApp"
 include ':app'
+include ':domain'
+include ':usecases'
+include ':data'
+include ':framework'

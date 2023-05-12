@@ -5,4 +5,11 @@
     <string name="country_example">Egypt</string>
     <string name="intelligence_label">intelligence: </string>
     <string name="intelligence_example">5</string>
+    <string name="base_url">https://api.thecatapi.com/v1/</string>
+    <string name="warning">Error</string>
+    <string name="continue_label">Continue</string>
+    <string name="api_key">bda53789\–d59e\–46cd\-9bc5\-2936630fde39</string>
+    <string name="dummy_confirm">OK</string>
+    <string name="dummy_cancel">Cancel</string>
+    <string name="error_message">Error Message</string>
 </resources>

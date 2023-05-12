@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheCastApp</string>
+    <string name="cat_name_example">Abyssinian</string>
+    <string name="country_label">Country: </string>
+    <string name="country_example">Egypt</string>
+    <string name="intelligence_label">intelligence: </string>
+    <string name="intelligence_example">5</string>
+</resources>
